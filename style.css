@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+input{
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+}
+
+input:focus{
+    outline: none;
+}
+form{
+    padding: 20px;
+    margin: auto;
+    max-width: 250px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.succes{
+    border: 3px solid green;
+}
+
+.eror{
+    border: 3px solid red;
+}
